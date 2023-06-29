@@ -28,7 +28,7 @@ For me, front-end development is a step towards full-stack development.
 
 ## **Code examples:**
 
-Code examples can be seen in my [GitHub](https://github.com/danoonix) account or you can see my FizzBuzz solving below:
+Code examples can be seen in my [GitHub](https://github.com/vardari) account or you can see my FizzBuzz solving below:
 
 ```
 function fizzbuzz(n) {
