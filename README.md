@@ -1,1 +1,1 @@
-# rsschool-cv
+https://vardari.github.io/rsschool-cv/
