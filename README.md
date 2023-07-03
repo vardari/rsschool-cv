@@ -1,1 +1,1 @@
-https://vardari.github.io/rsschool-cv/cv
+https://vardari.github.io/rsschool-cv/
