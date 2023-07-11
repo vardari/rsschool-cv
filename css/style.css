@@ -9,9 +9,11 @@ body {
 }
 
 .wrapper {
+  max-width: 1920px;
   font-family: 'Roboto', serif;
   padding-right: 30px;
   padding-left: 30px;
+  margin: 0 auto;
 }
 
 .header {
@@ -59,4 +61,48 @@ body {
 
 .navigation__link:hover::after {
   opacity: 1;
+}
+
+.about {}
+
+.about__wrapper {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.about__img {
+  width: 300px;
+  border-radius: 50%;
+}
+
+.about__info {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.main-title {
+  margin: 0;
+  font-size: 32px;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+  word-spacing: 3px;
+}
+
+.main-title__divider {
+  width: 140px;
+  height: 3px;
+  background-color: var(--yellow);
+}
+
+.main-title__subtitle {
+  font-size: 20px;
+  font-weight: 300;
+  text-transform: uppercase;
 }
